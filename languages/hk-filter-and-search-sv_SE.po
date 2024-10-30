@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-27T23:40:34+00:00\n"
+"PO-Revision-Date: 2023-10-27T23:40:34+00:00\n"
+"Language: \n"
+
+#. Plugin Name of the plugin
+msgid "HTML filter and csv-file search"
+msgstr "HTML filter och csv-fil sökning"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/hk-filter-and-search"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy way to enable jquery HTML filter or a CSV-file-search to a webpage. Use the shortcodes [csvsearch] and [filtersearch] to enable."
+msgstr "Enkelt sätt att aktivera jquery HTML filter eller en CSV-fil-sökning till en webbsida. Använd shortcodes [csvsearch] och [filtersearch] för att aktivera."
+
+#. Author of the plugin
+msgid "jonashjalmarsson"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jonashjalmarsson.se"
+msgstr ""
+
+#: hk-filter-and-search.php:47
+msgid "Search"
+msgstr "Sök"
+
+#: hk-filter-and-search.php:52
+msgid "Nothing found when searching for: "
+msgstr "Inget hittades när du sökte efter: "
+
+#: hk-filter-and-search.php:73
+msgid "No file found or not a valid .csv file!"
+msgstr "Ingen fil hittades eller inte en giltig .csv fil!"
+
+#: hk-filter-and-search.php:74
+msgid "Src has to be set and point to a .csv file."
+msgstr "Src måste vara satt och peka på en .csv fil."
+
+#: hk-filter-and-search.php:150
+msgid "Keep writing..."
+msgstr "Fortsätt skriva..."
+
+#: hk-filter-and-search.php:394
+msgid "Search on this site"
+msgstr "Sök på denna sida"
+
+#: hk-filter-and-search.php:473
+msgid "Warning: Nothing to filter!"
+msgstr "Varning: Inget att filtrera!"
